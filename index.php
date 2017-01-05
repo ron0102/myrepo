@@ -8,4 +8,5 @@
 
 echo "Hello world";
 
+//some comment.
 ?>
